@@ -42,3 +42,10 @@ For the purposes of this test use the following data:
 
 *The maximum possible fare is therefore £3.20.*
 
+*Bus Trip Example*
+
+<img src="https://github.com/ujjalsatpathy/The-Oyster-Card-Application/blob/master/BusTrip.png" />
+
+*Tube Trip Example*
+
+<img src="https://github.com/ujjalsatpathy/The-Oyster-Card-Application/blob/master/TubeTrip.png" />
